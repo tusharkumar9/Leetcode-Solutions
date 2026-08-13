@@ -113,10 +113,12 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
