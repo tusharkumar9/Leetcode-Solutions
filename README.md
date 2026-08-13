@@ -96,6 +96,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
