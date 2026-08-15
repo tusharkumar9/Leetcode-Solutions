@@ -115,11 +115,13 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
