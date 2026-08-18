@@ -98,6 +98,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0007-reverse-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
@@ -139,4 +141,12 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
