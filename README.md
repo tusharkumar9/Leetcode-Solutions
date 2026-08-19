@@ -99,6 +99,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0007-reverse-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tusharkumar9/dsa-practice/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -149,4 +151,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
