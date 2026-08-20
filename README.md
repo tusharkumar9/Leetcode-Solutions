@@ -120,6 +120,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
 | ------- |
