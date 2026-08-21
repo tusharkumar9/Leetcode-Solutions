@@ -159,4 +159,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/tusharkumar9/dsa-practice/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
