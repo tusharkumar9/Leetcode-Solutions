@@ -99,6 +99,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0007-reverse-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -163,4 +165,24 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/tusharkumar9/dsa-practice/tree/master/0077-combinations) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
