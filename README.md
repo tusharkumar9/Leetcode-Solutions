@@ -102,6 +102,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tusharkumar9/dsa-practice/tree/master/0258-add-digits) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,4 +200,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/tusharkumar9/dsa-practice/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 <!---LeetCode Topics End-->
