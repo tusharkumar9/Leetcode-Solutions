@@ -97,6 +97,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/tusharkumar9/dsa-practice/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
