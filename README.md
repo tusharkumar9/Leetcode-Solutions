@@ -106,6 +106,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tusharkumar9/dsa-practice/tree/master/0258-add-digits) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [2235-add-two-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2843-count-symmetric-integers) |
 ## Binary Search
 |  |
