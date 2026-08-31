@@ -106,6 +106,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tusharkumar9/dsa-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2235-add-two-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2843-count-symmetric-integers) |
@@ -124,6 +125,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0201-bitwise-and-of-numbers-range](https://github.com/tusharkumar9/dsa-practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/tusharkumar9/dsa-practice/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +177,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
