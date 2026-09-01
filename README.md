@@ -114,6 +114,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Newton's Method
 |  |
 | ------- |
@@ -131,6 +132,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
@@ -167,6 +169,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
