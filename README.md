@@ -110,6 +110,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2235-add-two-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2843-count-symmetric-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tusharkumar9/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tusharkumar9/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
