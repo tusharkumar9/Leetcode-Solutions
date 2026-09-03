@@ -154,6 +154,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tusharkumar9/dsa-practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tusharkumar9/dsa-practice/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -175,6 +176,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -247,6 +249,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0125-valid-palindrome](https://github.com/tusharkumar9/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tusharkumar9/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tusharkumar9/dsa-practice/tree/master/0389-find-the-difference) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
@@ -257,4 +260,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tusharkumar9/dsa-practice/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
