@@ -152,6 +152,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tusharkumar9/dsa-practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +164,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0075-sort-colors](https://github.com/tusharkumar9/dsa-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tusharkumar9/dsa-practice/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -240,6 +242,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0008-string-to-integer-atoi](https://github.com/tusharkumar9/dsa-practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/tusharkumar9/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/tusharkumar9/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/tusharkumar9/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0344-reverse-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
