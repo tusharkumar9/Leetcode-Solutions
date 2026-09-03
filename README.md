@@ -124,6 +124,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/tusharkumar9/dsa-practice/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tusharkumar9/dsa-practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/tusharkumar9/dsa-practice/tree/master/0338-counting-bits) |
@@ -134,6 +135,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tusharkumar9/dsa-practice/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
