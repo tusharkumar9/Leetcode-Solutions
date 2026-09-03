@@ -1,16 +1,22 @@
 class Solution {
     public int singleNumber(int[] nums) {
 
-        int [] freq = new int[60001];
+        // int [] freq = new int[60001];
 
-        for(int i = 0; i<nums.length; i++) {
-            freq[nums[i]+30000]++;
+        // for(int i = 0; i<nums.length; i++) {
+        //     freq[nums[i]+30000]++;
+        // }
+        // for(int i = 0; i<freq.length; i++) {
+        //     if(freq[i]==1) {
+        //         return i-30000;  
+        //     }
+        // }
+        // return -1;
+
+        int ans =0;
+        for(int i=0;i<nums.length;i++){
+            ans^=nums[i];
         }
-        for(int i = 0; i<freq.length; i++) {
-            if(freq[i]==1) {
-                return i-30000;  
-            }
-        }
-        return -1;
+        return ans;
     }
 }
