@@ -111,6 +111,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2235-add-two-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2843-count-symmetric-integers) |
+| [3870-count-commas-in-range](https://github.com/tusharkumar9/dsa-practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharkumar9/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
