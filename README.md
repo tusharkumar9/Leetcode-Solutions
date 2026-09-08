@@ -117,6 +117,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 ## Newton's Method
 |  |
 | ------- |
@@ -144,6 +145,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tusharkumar9/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
@@ -278,4 +280,12 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
