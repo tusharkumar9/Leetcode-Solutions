@@ -120,6 +120,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -151,6 +152,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -288,8 +290,10 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/tusharkumar9/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
