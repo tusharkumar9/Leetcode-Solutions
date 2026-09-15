@@ -153,6 +153,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0485-max-consecutive-ones](https://github.com/tusharkumar9/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/tusharkumar9/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/tusharkumar9/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -305,6 +306,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0209-minimum-size-subarray-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/tusharkumar9/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/tusharkumar9/dsa-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Design
