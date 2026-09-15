@@ -148,6 +148,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/tusharkumar9/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/tusharkumar9/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tusharkumar9/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -304,6 +305,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/tusharkumar9/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/tusharkumar9/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tusharkumar9/dsa-practice/tree/master/0724-find-pivot-index) |
