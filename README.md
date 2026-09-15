@@ -157,6 +157,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharkumar9/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -303,4 +304,5 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0209-minimum-size-subarray-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
