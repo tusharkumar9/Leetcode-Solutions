@@ -220,6 +220,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0392-is-subsequence](https://github.com/tusharkumar9/dsa-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tusharkumar9/dsa-practice/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -263,6 +264,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0258-add-digits](https://github.com/tusharkumar9/dsa-practice/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/tusharkumar9/dsa-practice/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -290,6 +292,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tusharkumar9/dsa-practice/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
@@ -326,4 +329,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tusharkumar9/dsa-practice/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
