@@ -154,6 +154,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0303-range-sum-query-immutable](https://github.com/tusharkumar9/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tusharkumar9/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/tusharkumar9/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tusharkumar9/dsa-practice/tree/master/0724-find-pivot-index) |
@@ -178,6 +179,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tusharkumar9/dsa-practice/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -291,6 +293,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0415-add-strings](https://github.com/tusharkumar9/dsa-practice/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tusharkumar9/dsa-practice/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
