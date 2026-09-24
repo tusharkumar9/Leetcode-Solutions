@@ -182,6 +182,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -205,6 +206,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -297,6 +299,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharkumar9/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
@@ -320,6 +323,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharkumar9/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
