@@ -183,6 +183,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0389-find-the-difference](https://github.com/tusharkumar9/dsa-practice/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
+| [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -204,6 +205,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0414-third-maximum-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |
@@ -245,6 +247,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0077-combinations](https://github.com/tusharkumar9/dsa-practice/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/tusharkumar9/dsa-practice/tree/master/0089-gray-code) |
+| [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -302,6 +305,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharkumar9/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -347,4 +351,9 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
