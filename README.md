@@ -108,6 +108,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/tusharkumar9/dsa-practice/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2235-add-two-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2843-count-symmetric-integers) |
@@ -245,6 +246,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -286,6 +288,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/tusharkumar9/dsa-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tusharkumar9/dsa-practice/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -359,4 +362,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
