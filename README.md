@@ -118,6 +118,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tusharkumar9/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/tusharkumar9/dsa-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -141,6 +142,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tusharkumar9/dsa-practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/tusharkumar9/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tusharkumar9/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tusharkumar9/dsa-practice/tree/master/0075-sort-colors) |
@@ -192,6 +194,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tusharkumar9/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 ## Sorting
