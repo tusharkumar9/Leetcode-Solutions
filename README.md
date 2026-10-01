@@ -167,6 +167,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -189,6 +190,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
 | [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/tusharkumar9/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -217,6 +219,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -315,6 +318,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharkumar9/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
