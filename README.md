@@ -132,6 +132,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tusharkumar9/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/tusharkumar9/dsa-practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tusharkumar9/dsa-practice/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -147,6 +148,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0011-container-with-most-water](https://github.com/tusharkumar9/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tusharkumar9/dsa-practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tusharkumar9/dsa-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
@@ -251,6 +253,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/tusharkumar9/dsa-practice/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/tusharkumar9/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/tusharkumar9/dsa-practice/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
