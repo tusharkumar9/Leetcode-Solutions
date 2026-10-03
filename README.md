@@ -237,6 +237,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0125-valid-palindrome](https://github.com/tusharkumar9/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharkumar9/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tusharkumar9/dsa-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tusharkumar9/dsa-practice/tree/master/0443-string-compression) |
@@ -251,6 +252,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
@@ -366,6 +368,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
@@ -376,4 +379,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
