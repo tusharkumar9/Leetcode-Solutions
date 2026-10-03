@@ -383,4 +383,12 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/tusharkumar9/dsa-practice/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/tusharkumar9/dsa-practice/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
