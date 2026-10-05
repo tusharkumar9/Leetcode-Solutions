@@ -148,6 +148,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharkumar9/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tusharkumar9/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/tusharkumar9/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tusharkumar9/dsa-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tusharkumar9/dsa-practice/tree/master/0078-subsets) |
@@ -208,6 +209,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/tusharkumar9/dsa-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tusharkumar9/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tusharkumar9/dsa-practice/tree/master/0217-contains-duplicate) |
@@ -261,6 +263,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tusharkumar9/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/tusharkumar9/dsa-practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tusharkumar9/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/tusharkumar9/dsa-practice/tree/master/0089-gray-code) |
