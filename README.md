@@ -104,6 +104,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0202-happy-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tusharkumar9/dsa-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/tusharkumar9/dsa-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
@@ -256,6 +257,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | ------- |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
@@ -302,6 +304,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tusharkumar9/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/tusharkumar9/dsa-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tusharkumar9/dsa-practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
@@ -316,6 +319,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0008-string-to-integer-atoi](https://github.com/tusharkumar9/dsa-practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/tusharkumar9/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/tusharkumar9/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tusharkumar9/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -383,6 +387,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -396,4 +401,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/tusharkumar9/dsa-practice/tree/master/0386-lexicographical-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
