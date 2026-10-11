@@ -111,6 +111,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0415-add-strings](https://github.com/tusharkumar9/dsa-practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2843-count-symmetric-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tusharkumar9/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -177,6 +178,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tusharkumar9/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharkumar9/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -261,6 +263,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -299,6 +302,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0258-add-digits](https://github.com/tusharkumar9/dsa-practice/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/tusharkumar9/dsa-practice/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -349,6 +353,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
