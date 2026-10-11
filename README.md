@@ -337,6 +337,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0443-string-compression](https://github.com/tusharkumar9/dsa-practice/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/tusharkumar9/dsa-practice/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0606-construct-string-from-binary-tree](https://github.com/tusharkumar9/dsa-practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/tusharkumar9/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -405,6 +406,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/tusharkumar9/dsa-practice/tree/master/0386-lexicographical-numbers) |
+| [0606-construct-string-from-binary-tree](https://github.com/tusharkumar9/dsa-practice/tree/master/0606-construct-string-from-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -413,4 +415,12 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/tusharkumar9/dsa-practice/tree/master/0606-construct-string-from-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/tusharkumar9/dsa-practice/tree/master/0606-construct-string-from-binary-tree) |
 <!---LeetCode Topics End-->
