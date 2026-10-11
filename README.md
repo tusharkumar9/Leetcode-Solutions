@@ -110,6 +110,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/tusharkumar9/dsa-practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/tusharkumar9/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharkumar9/dsa-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/tusharkumar9/dsa-practice/tree/master/2235-add-two-integers) |
@@ -143,6 +144,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0338-counting-bits](https://github.com/tusharkumar9/dsa-practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/tusharkumar9/dsa-practice/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/tusharkumar9/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
@@ -263,6 +265,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0326-power-of-three](https://github.com/tusharkumar9/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tusharkumar9/dsa-practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tusharkumar9/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/tusharkumar9/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
