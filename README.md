@@ -347,6 +347,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
