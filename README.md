@@ -173,6 +173,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0713-subarray-product-less-than-k](https://github.com/tusharkumar9/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tusharkumar9/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharkumar9/dsa-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/tusharkumar9/dsa-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharkumar9/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tusharkumar9/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -305,6 +306,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [0258-add-digits](https://github.com/tusharkumar9/dsa-practice/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/tusharkumar9/dsa-practice/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/tusharkumar9/dsa-practice/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/tusharkumar9/dsa-practice/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
@@ -429,4 +431,8 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/tusharkumar9/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/tusharkumar9/dsa-practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
