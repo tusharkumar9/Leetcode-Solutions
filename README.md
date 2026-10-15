@@ -182,6 +182,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [1480-running-sum-of-1d-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tusharkumar9/dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tusharkumar9/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tusharkumar9/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharkumar9/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -205,6 +206,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 | [1394-find-lucky-integer-in-an-array](https://github.com/tusharkumar9/dsa-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tusharkumar9/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tusharkumar9/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tusharkumar9/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tusharkumar9/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -436,4 +438,12 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/tusharkumar9/dsa-practice/tree/master/0867-transpose-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tusharkumar9/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tusharkumar9/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
