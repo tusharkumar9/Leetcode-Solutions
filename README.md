@@ -262,6 +262,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tusharkumar9/dsa-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tusharkumar9/dsa-practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -406,6 +407,7 @@ This repository is primarily for **learning, practice, and tracking progress**. 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tusharkumar9/dsa-practice/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
